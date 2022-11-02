@@ -1,6 +1,6 @@
 ### Hi I'm Harsh! 👋
 
-Currently working at [PLG Works](https://plgworks.com/) as a Software Engineer.
+Currently working at [ModernLoop](http://modernloop.io/) as a Frontend Engineer.
 
 You can find me on my [website](https://harshsiriah.xyz)! Feel free to reach out and we can have a chat!
 
