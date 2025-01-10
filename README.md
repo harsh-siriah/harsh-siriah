@@ -1,6 +1,7 @@
 ### Hi I'm Harsh! 👋
+A Cornell Grad aspiring to be a PM.
 
-Currently working at [ModernLoop](http://modernloop.io/) as a Frontend Engineer.
+Previously worked at [ModernLoop](http://modernloop.io/) as a Product Manager and a Frontend Engineer.
 
 You can find me on my [website](https://harshsiriah.xyz)! Feel free to reach out and we can have a chat!
 
